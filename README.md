@@ -3,7 +3,8 @@
 <img width="250" src="Screenshots/Logo.png">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
+
+Kael99
 
 ## Description:
 JetGram is an open source desktop app [Telegram](https://github.com/telegramdesktop/tdesktop) clone made with JavaFx, it uses a local Java Socket based Server and the routing system is basic.
